@@ -1,1 +1,46 @@
-flutter/ephemeral
+# Flutter generated files
+flutter/ephemeral/
+.flutter-plugins
+.flutter-plugins-dependencies
+.metadata
+
+# Dart/Pub related
+.dart_tool/
+.packages
+.pub-cache/
+.pub/
+
+# Build outputs
+build/
+
+# IDE related
+.idea/
+.vscode/
+*.iml
+
+# Android related
+android/.gradle/
+android/captures/
+android/app/*.keystore
+android/local.properties
+android/key.properties
+
+# iOS/Xcode related
+ios/Flutter/.last_build_id
+ios/Pods/
+ios/Runner/GeneratedPluginRegistrant.*
+ios/.generated/
+ios/DerivedData/
+ios/.symlinks/
+ios/.flutter-plugins
+ios/.flutter-plugins-dependencies
+
+# Web related
+lib/generated_plugin_registrant.dart
+
+# OS related
+.DS_Store
+Thumbs.db
+
+# Others
+*.lock
